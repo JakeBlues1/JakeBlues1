@@ -13,8 +13,7 @@ I am a Data Analyst 📊 <br />
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/tree/main)
-  
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Luke-Palmer-Divers/Portfolio-Projects)
 ## 🛠️ Tools
 - Language: SQL, Python
 - Database: SSMS, PostgreSQL, 
