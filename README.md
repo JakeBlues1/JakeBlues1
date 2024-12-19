@@ -4,7 +4,7 @@
 <br />Hello, I'm Luke.👋 <br />
 I am from the U.K. 🌍 <br />
 I am a Data Analyst 📊 <br />
-  with expertise in data analyzing, cleaning, visualizing, querying, database design, and data modeling.
+  with expertise in data analysing, cleaning, visualising, querying, database design, and data modeling.
 
 - Querying data using SQL and Python
 - Performing data analysis using SQL.
@@ -13,7 +13,7 @@ I am a Data Analyst 📊 <br />
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Luke-Palmer-Divers/Portfolio-Projects)
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Luke-Palmer-Divers/Portfolio-Projects) and [dashboards/ reports.](https://github.com/Luke-Palmer-Divers/Dashboards)
 ## 🛠️ Tools
 - Language: SQL, Python
 - Database: SSMS, PostgreSQL, 
